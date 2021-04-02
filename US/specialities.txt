@@ -1,0 +1,7 @@
+2,Cardiology
+3,Combined Specialty
+4,Dermatology
+5,Emergency Medicine
+6,Endocrinology, Diabetes, & Metabolism
+7,Family Medicine
+8,Gastroenterology

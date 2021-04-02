@@ -1,0 +1,40 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.ama-assn.org	TRUE	/	FALSE	1624090666	_gcl_au	1.1.840393099.1616314667
+#HttpOnly_.ama-assn.org	TRUE	/	TRUE	1618908194	__cfduid	d2b4c4e21e17fd6dc7ccc59366be4946d1616316194
+.ama-assn.org	TRUE	/	FALSE	1679388206	tc_ptidexpiry	1679388206693
+.ama-assn.org	TRUE	/	FALSE	1679388206	tc_ptid	3nfw1JWLDcjJuDgGdWTCw9
+.ama-assn.org	TRUE	/	FALSE	1616316267	_gat_UA-77381884-2	1
+.ama-assn.org	TRUE	/	FALSE	1616402622	_uetsid	8058cde08a2111eb917b837ecc9ad9b6
+.ama-assn.org	TRUE	/	FALSE	1617720222	_uetvid	80591ac08a2111eb9c834143477ad414
+.ama-assn.org	TRUE	/	FALSE	1616318023	tc_ttid	7Qz3CkTXNYLHKQjJmVYz4W
+.ama-assn.org	TRUE	/	FALSE	1616316283	_gat_SC_Tracking	1
+.ama-assn.org	TRUE	/	FALSE	1679388206	tc_q	
+.ama-assn.org	TRUE	/	FALSE	1624092225	_fbp	fb.1.1616316207633.1353930283
+.ama-assn.org	TRUE	/	TRUE	1931676244	gaTAMID	
+.ama-assn.org	TRUE	/	TRUE	1679388244	_gaUserId	1616316204839.285142
+doctorfinder.ama-assn.org	FALSE	/	TRUE	0	JSESSIONID	0000kkrtKsuKySHKsx3xnY8027W:1ciqqpcs2
+.ama-assn.org	TRUE	/	TRUE	0	PD-H-SESSION-ID	0_sp/7tSPIWFiwKbO8z9j18ZZGnDtLna7dUuKJ0DZfhrfCKAsyIqc=
+.ama-assn.org	TRUE	/	FALSE	0	rxVisitor	1616688911589FA8U89VPVPQKFON1OJBGANHQR8UKS34I
+.ama-assn.org	TRUE	/	FALSE	0	__utmc	7915170
+.ama-assn.org	TRUE	/	FALSE	1616689516	__utmt	1
+.ama-assn.org	TRUE	/	FALSE	1616689516	__utmt_corp	1
+.ama-assn.org	TRUE	/	FALSE	0	_gaLinkId	
+doctorfinder.ama-assn.org	FALSE	/doctorfinder	FALSE	0	doctorfinder	physician
+.ama-assn.org	TRUE	/	FALSE	0	dtCookie	v_4_srv_2_sn_64159F757B712B5CA211B017CF50D7AE_perc_100000_ol_0_mul_1_app-3Aebc0c17ac66593f3_1_app-3Af25cd4d4c31c1a32_1
+.ama-assn.org	TRUE	/	FALSE	1616689128	_gat_enterprise	1
+.ama-assn.org	TRUE	/	FALSE	1616689128	_gat_microsapps	1
+.ama-assn.org	TRUE	/	FALSE	0	dtSa	-
+.ama-assn.org	TRUE	/	FALSE	1632241093	optimizelyEndUserId	oeu1616314664238r0.12772606094254768
+.ama-assn.org	TRUE	/	FALSE	1679761095	_ga	GA1.2.1148310093.1616314667
+.ama-assn.org	TRUE	/	FALSE	1616775495	_gid	GA1.2.1488246761.1616688916
+.ama-assn.org	TRUE	/	FALSE	0	rxvt	1616690895571|1616688911610
+.ama-assn.org	TRUE	/	FALSE	0	dtPC	2$289092994_584h-vCFJJURPCKMMATWJAUNIGTWIPFJCCRCQU-0e8
+doctorfinder.ama-assn.org	FALSE	/	FALSE	1774455495	ki_t	1616314669835%3B1616688917796%3B1616689095701%3B2%3B41
+doctorfinder.ama-assn.org	FALSE	/	FALSE	1774455495	ki_r	
+.ama-assn.org	TRUE	/	FALSE	0	dtLatC	1
+.ama-assn.org	TRUE	/	FALSE	1679761097	__utma	7915170.1148310093.1616314667.1616333685.1616688916.5
+.ama-assn.org	TRUE	/	FALSE	1632457097	__utmz	7915170.1616314667.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.ama-assn.org	TRUE	/	FALSE	1616690897	__utmb	7915170.16.10.1616688916

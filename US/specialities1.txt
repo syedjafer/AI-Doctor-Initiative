@@ -1,0 +1,7 @@
+9,General Practice
+10,Infectious Disease
+11,Internal Medicine
+12,Medical Genetics
+13,Nephrology
+14,Neurological Surgery
+15,Neurology

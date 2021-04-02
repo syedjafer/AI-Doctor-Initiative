@@ -1,0 +1,7 @@
+24,Physical Medicine & Rehabilitation
+25,Plastic Surgery
+26,Preventive Medicine
+27,Psychiatry
+28,Radiology
+29,Surgery
+30,Urology

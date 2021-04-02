@@ -1,0 +1,1211 @@
+https://physicians.wustl.edu/find-a-doctor/best-doctors-in-america/
+https://www.chla.org/best-doctors-america
+https://www.castleconnolly.com/
+https://health.usnews.com/doctors
+https://dexur.com/doctors/usa/
+{
+	"matches": [
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1609894658,
+			"phone": "(808) 245-1500",
+			"blurb": "Dr. Edward Abbott is an obstetrician-gynecologist in Lihue, HI, and has been in practice more than 20 years.",
+			"full_name": "Edward F. Abbott",
+			"first_name": "Edward",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Lihue",
+				"distance": null,
+				"state": "HI",
+				"zip_code": "96766",
+				"street_address": "3-3420 Kuhio Hwy, Suite B"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Obstetrics & Gynecology"
+				}
+			},
+			"specialty": "Obstetrics & Gynecology",
+			"subspecialties": [
+				"General Obstetrics & Gynecology"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/edward-abbott-458212",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "nurse-practitioner",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1598901902,
+			"phone": "(215) 662-4000",
+			"blurb": "Elizabeth Abbott is a women's health nurse practitioner in Philadelphia, PA, and is affiliated with Hospitals of the University of Pennsylvania-Penn Presbyterian.",
+			"full_name": "Elizabeth O. Abbott",
+			"first_name": "Elizabeth",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "F",
+			"hospitals": 1,
+			"affiliated_hospital": "Hospitals of the University of Pennsylvania-Penn Presbyterian",
+			"photo": null,
+			"location": {
+				"city": "Philadelphia",
+				"distance": null,
+				"state": "PA",
+				"zip_code": "19104",
+				"street_address": "3400 Spruce St"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Women's Health Nurse Practitioner"
+				}
+			},
+			"specialty": "Women's Health Nurse Practitioner",
+			"subspecialties": [
+				"Obstetrics & Gynecology"
+			],
+			"title": "NP",
+			"title_list": [
+				"NP"
+			],
+			"url": "/nurse-practitioners/elizabeth-abbott-2111714",
+			"years_of_experience": null,
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": ""
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": {
+				"specialty": "Internal Medicine",
+				"volume": 9,
+				"recent_volume": 2,
+				"psi": {
+					"title": "Overall Patient Experience Rating",
+					"description": null,
+					"label": "Positive",
+					"color": "blue",
+					"color_rgb": "#2262bb",
+					"score": 3,
+					"score_max": 5
+				},
+				"metrics": [
+					{
+						"title": "Thoroughness of Examination",
+						"description": "Previous patients' satisfaction in their perception of the thoroughness of the examination they received from this physician",
+						"label": "Fair",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 2,
+						"score_max": 5
+					},
+					{
+						"title": "Ability to Answer Questions",
+						"description": "Previous patients' assessment of this physician's ability to answer all of their questions",
+						"label": "Fair",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 2,
+						"score_max": 5
+					},
+					{
+						"title": "Clarity of Instructions",
+						"description": "Previous patients' satisfaction in the clarity of this physician's instructions for taking care of their health condition",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's follow-up",
+						"description": "Previous patients' satisfaction of the followup care they received from this physician and responsiveness to their concerns",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Amount of Time with Patient",
+						"description": "Previous patients' satisfaction with the time this physician spent with them during appointments",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's Attitude",
+						"description": "Previous patients' assessment of this physician's friendliness and caring attitude",
+						"label": "Fair",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 2,
+						"score_max": 5
+					}
+				]
+			},
+			"appointment_booking": false,
+			"npi": 1699788851,
+			"phone": "(830) 719-1192",
+			"blurb": "Dr. Emile Abbott is an internist in Del Rio, TX, and is affiliated with Val Verde Regional Medical Center. He has been in practice more than 20 years.",
+			"full_name": "Emile G. Abbott",
+			"first_name": "Emile",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 1,
+			"affiliated_hospital": "Val Verde Regional Medical Center",
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/v5tq5v9i7gowsjrr30g3.jpg",
+			"location": {
+				"city": "Del Rio",
+				"distance": null,
+				"state": "TX",
+				"zip_code": "78840",
+				"street_address": "225 Fox Dr"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Internal Medicine"
+				}
+			},
+			"specialty": "Internal Medicine",
+			"subspecialties": [
+				"General Internal Medicine",
+				"Preventive Medicine"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/emile-abbott-503441",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1255522876,
+			"phone": "(702) 653-2775",
+			"blurb": "Dr. Eric Abbott is a family medicine doctor in Las Vegas, NV, and is affiliated with Mike O'Callaghan Federal Hospital. He has been in practice between 5–10 years.",
+			"full_name": "Eric E. Abbott",
+			"first_name": "Eric",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 1,
+			"affiliated_hospital": "Mike O'Callaghan Federal Hospital",
+			"photo": null,
+			"location": {
+				"city": "Las Vegas",
+				"distance": null,
+				"state": "NV",
+				"zip_code": "89191",
+				"street_address": "4700 Las Vegas Blvd N"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Family Medicine"
+				}
+			},
+			"specialty": "Family Medicine",
+			"subspecialties": [
+				"General Family Medicine"
+			],
+			"title": "DO",
+			"title_list": [
+				"DO"
+			],
+			"url": "/doctors/eric-abbott-857417",
+			"years_of_experience": [
+				6,
+				10
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "physician-assistant",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1669873089,
+			"phone": "(443) 777-7046",
+			"blurb": "Eric Abbott is a physician assistant in Baltimore, MD, and is affiliated with multiple hospitals including University of Maryland Shore Medical Center at Easton.",
+			"full_name": "Eric Abbott",
+			"first_name": "Eric",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 2,
+			"affiliated_hospital": "University of Maryland Shore Medical Center at Easton",
+			"photo": null,
+			"location": {
+				"city": "Baltimore",
+				"distance": null,
+				"state": "MD",
+				"zip_code": "21237",
+				"street_address": "9000 Franklin Square Dr"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Emergency Medicine"
+				}
+			},
+			"specialty": "Physician Assistant",
+			"subspecialties": [
+				"General Emergency Medicine PA"
+			],
+			"title": "PA",
+			"title_list": [
+				"PA"
+			],
+			"url": "/physician-assistants/eric-abbott-2007489",
+			"years_of_experience": null,
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": ""
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1619252202,
+			"phone": "(718) 960-6205",
+			"blurb": "Dr. Ethan Abbott is an emergency medicine physician in Bronx, NY, and is affiliated with multiple hospitals including Montefiore Medical Center. He has been in practice between 5–10 years.",
+			"full_name": "Ethan E. Abbott",
+			"first_name": "Ethan",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 5,
+			"affiliated_hospital": "Montefiore Medical Center",
+			"photo": null,
+			"location": {
+				"city": "Bronx",
+				"distance": null,
+				"state": "NY",
+				"zip_code": "10457",
+				"street_address": "4422 3rd Ave"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Emergency Medicine"
+				}
+			},
+			"specialty": "Emergency Medicine",
+			"subspecialties": [
+				"General Emergency Medicine"
+			],
+			"title": "DO",
+			"title_list": [
+				"DO"
+			],
+			"url": "/doctors/ethan-abbott-966873",
+			"years_of_experience": [
+				6,
+				10
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": {
+				"specialty": "Neurology",
+				"volume": 15,
+				"recent_volume": 0,
+				"psi": {
+					"title": "Overall Patient Experience Rating",
+					"description": null,
+					"label": "Very Positive",
+					"color": "blue",
+					"color_rgb": "#2262bb",
+					"score": 4,
+					"score_max": 5
+				},
+				"metrics": [
+					{
+						"title": "Thoroughness of Examination",
+						"description": "Previous patients' satisfaction in their perception of the thoroughness of the examination they received from this physician",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Ability to Answer Questions",
+						"description": "Previous patients' assessment of this physician's ability to answer all of their questions",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's follow-up",
+						"description": "Previous patients' satisfaction of the followup care they received from this physician and responsiveness to their concerns",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					},
+					{
+						"title": "Amount of Time with Patient",
+						"description": "Previous patients' satisfaction with the time this physician spent with them during appointments",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's Attitude",
+						"description": "Previous patients' assessment of this physician's friendliness and caring attitude",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					}
+				]
+			},
+			"appointment_booking": {
+				"partners": [
+					"callrail"
+				],
+				"phone": "855-808-4716",
+				"url": null,
+				"system_name": "Ascension",
+				"accepts_new_patients": false,
+				"telehealth": {
+					"url": null,
+					"system_name": null,
+					"campaign_id": null,
+					"accepts_new_patients": false
+				},
+				"items": [
+					{
+						"accepts_new_patients": false,
+						"phone": "855-808-4716",
+						"system_name": "Ascension",
+						"booking_type": "callrail",
+						"url": null,
+						"campaign_id": "Ascension"
+					}
+				]
+			},
+			"npi": 1326035650,
+			"phone": "(855) 298-9888",
+			"blurb": "Dr. Faith Abbott is a neurologist in Saginaw, MI, and is affiliated with St. Mary Mercy Hospital. She has been in practice more than 20 years.",
+			"full_name": "Faith Abbott",
+			"first_name": "Faith",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "F",
+			"hospitals": 1,
+			"affiliated_hospital": "St. Mary Mercy Hospital",
+			"photo": null,
+			"location": {
+				"city": "Saginaw",
+				"distance": null,
+				"state": "MI",
+				"zip_code": "48604",
+				"street_address": "4677 Towne Centre Rd"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Neurology"
+				}
+			},
+			"specialty": "Neurology",
+			"subspecialties": [
+				"General Neurology"
+			],
+			"title": "DO",
+			"title_list": [
+				"DO"
+			],
+			"url": "/doctors/faith-abbott-190010",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1588080840,
+			"phone": "(585) 442-4289",
+			"blurb": "Dr. George Abbott is a pathologist in Rochester, NY, and has been in practice more than 20 years.",
+			"full_name": "George R. Abbott",
+			"first_name": "George",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Rochester",
+				"distance": null,
+				"state": "NY",
+				"zip_code": "14618",
+				"street_address": "153 Hollyvale Dr"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Pathology"
+				}
+			},
+			"specialty": "Pathology",
+			"subspecialties": [
+				"General Pathology",
+				"Dermatopathology",
+				"Forensic/Autopsy",
+				"Anatomic Pathology"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/george-abbott-913383",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1316935299,
+			"phone": "(617) 724-4254",
+			"blurb": "Dr. Gerald Abbott is a radiologist in Boston, MA, and is affiliated with Massachusetts General Hospital. He has been in practice more than 20 years.",
+			"full_name": "Gerald F. Abbott",
+			"first_name": "Gerald",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 1,
+			"affiliated_hospital": "Massachusetts General Hospital",
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/aqopoh1vqc2zhpxtqwm4.jpg",
+			"location": {
+				"city": "Boston",
+				"distance": null,
+				"state": "MA",
+				"zip_code": "02114",
+				"street_address": "55 Fruit Street Fnd 202"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Radiology"
+				}
+			},
+			"specialty": "Radiology",
+			"subspecialties": [
+				"General Radiology",
+				"Thoracic Imaging"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/gerald-abbott-196005",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": {
+				"specialty": "Family Medicine",
+				"volume": 5,
+				"recent_volume": 0,
+				"psi": {
+					"title": "Overall Patient Experience Rating",
+					"description": null,
+					"label": "Very Positive",
+					"color": "blue",
+					"color_rgb": "#2262bb",
+					"score": 4,
+					"score_max": 5
+				},
+				"metrics": [
+					{
+						"title": "Provider's follow-up",
+						"description": "Previous patients' satisfaction of the followup care they received from this physician and responsiveness to their concerns",
+						"label": "Fair",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 2,
+						"score_max": 5
+					},
+					{
+						"title": "Amount of Time with Patient",
+						"description": "Previous patients' satisfaction with the time this physician spent with them during appointments",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's Attitude",
+						"description": "Previous patients' assessment of this physician's friendliness and caring attitude",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					}
+				]
+			},
+			"appointment_booking": false,
+			"npi": 1588644165,
+			"phone": "(316) 218-5346",
+			"blurb": "Dr. Gregory Abbott is a family medicine doctor in Fort Walton Beach, FL, and has been in practice more than 20 years.",
+			"full_name": "Gregory A. Abbott",
+			"first_name": "Gregory",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Fort Walton Beach",
+				"distance": null,
+				"state": "FL",
+				"zip_code": "32547",
+				"street_address": "15 Sherwood Rd NW"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Family Medicine"
+				}
+			},
+			"specialty": "Family Medicine",
+			"subspecialties": [
+				"General Family Medicine"
+			],
+			"title": "DO",
+			"title_list": [
+				"DO"
+			],
+			"url": "/doctors/gregory-abbott-795779",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1932248697,
+			"phone": "(518) 464-1091",
+			"blurb": "Dr. Hebert Abbott is a pediatrician in Albany, NY, and is affiliated with multiple hospitals including Albany Medical Center.",
+			"full_name": "Hebert R. Abbott",
+			"first_name": "Hebert",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 2,
+			"affiliated_hospital": "Albany Medical Center",
+			"photo": null,
+			"location": {
+				"city": "Albany",
+				"distance": null,
+				"state": "NY",
+				"zip_code": "12203",
+				"street_address": "103 Great Oaks Blvd"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Pediatrics"
+				}
+			},
+			"specialty": "Pediatrics",
+			"subspecialties": [
+				"General Pediatrics",
+				"Adolescent Medicine"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/hebert-abbott-1044010",
+			"years_of_experience": null,
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": {
+				"specialty": "Neurosurgery",
+				"volume": 15,
+				"recent_volume": 0,
+				"psi": {
+					"title": "Overall Patient Experience Rating",
+					"description": null,
+					"label": "Excellent",
+					"color": "blue",
+					"color_rgb": "#2262bb",
+					"score": 5,
+					"score_max": 5
+				},
+				"metrics": [
+					{
+						"title": "Provider's follow-up",
+						"description": "Previous patients' satisfaction of the followup care they received from this physician and responsiveness to their concerns",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Amount of Time with Patient",
+						"description": "Previous patients' satisfaction with the time this physician spent with them during appointments",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's Attitude",
+						"description": "Previous patients' assessment of this physician's friendliness and caring attitude",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					}
+				]
+			},
+			"appointment_booking": false,
+			"npi": 1356445779,
+			"phone": "(718) 920-8512",
+			"blurb": "Dr. Ira Abbott is a neurosurgeon in Bronx, NY, and is affiliated with Burke Rehabilitation Hospital. He has been in practice more than 20 years.",
+			"full_name": "Ira R. Abbott",
+			"first_name": "Ira",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 1,
+			"affiliated_hospital": "Burke Rehabilitation Hospital",
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/roxka8mp4gwhx9rnsady.jpg",
+			"location": {
+				"city": "Bronx",
+				"distance": null,
+				"state": "NY",
+				"zip_code": "10467",
+				"street_address": "MMC - Dept. Of Neurosurgery"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Neurosurgery"
+				}
+			},
+			"specialty": "Neurosurgery",
+			"subspecialties": [
+				"General Neurosurgery",
+				"Pediatric Neurosurgery"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/ira-abbott-535125",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": {
+				"specialty": "Orthopedics",
+				"volume": 33,
+				"recent_volume": 1,
+				"psi": {
+					"title": "Overall Patient Experience Rating",
+					"description": null,
+					"label": "Excellent",
+					"color": "blue",
+					"color_rgb": "#2262bb",
+					"score": 5,
+					"score_max": 5
+				},
+				"metrics": [
+					{
+						"title": "Thoroughness of Examination",
+						"description": "Previous patients' satisfaction in their perception of the thoroughness of the examination they received from this physician",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Ability to Answer Questions",
+						"description": "Previous patients' assessment of this physician's ability to answer all of their questions",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Clarity of Instructions",
+						"description": "Previous patients' satisfaction in the clarity of this physician's instructions for taking care of their health condition",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's follow-up",
+						"description": "Previous patients' satisfaction of the followup care they received from this physician and responsiveness to their concerns",
+						"label": "Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 3,
+						"score_max": 5
+					},
+					{
+						"title": "Amount of Time with Patient",
+						"description": "Previous patients' satisfaction with the time this physician spent with them during appointments",
+						"label": "Very Positive",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 4,
+						"score_max": 5
+					},
+					{
+						"title": "Provider's Attitude",
+						"description": "Previous patients' assessment of this physician's friendliness and caring attitude",
+						"label": "Excellent",
+						"color": "blue",
+						"color_rgb": "#2262bb",
+						"score": 5,
+						"score_max": 5
+					}
+				]
+			},
+			"appointment_booking": false,
+			"npi": 1598809519,
+			"phone": "(513) 424-7711",
+			"blurb": "Dr. James Abbott is an orthopedist in Fairfield, OH, and is affiliated with multiple hospitals including Atrium Medical Center-Middletown. He has been in practice between 10–20 years.",
+			"full_name": "James D. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 2,
+			"affiliated_hospital": "Atrium Medical Center-Middletown",
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/bhfotwl54vrsvioo576h.jpg",
+			"location": {
+				"city": "Fairfield",
+				"distance": null,
+				"state": "OH",
+				"zip_code": "45014",
+				"street_address": "3050 Mack Rd"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Orthopaedic Surgery"
+				}
+			},
+			"specialty": "Orthopedics",
+			"subspecialties": [
+				"General Orthopedic Surgery"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-588527",
+			"years_of_experience": [
+				11,
+				20
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1952329146,
+			"phone": "(301) 856-2323",
+			"blurb": "Dr. James Abbott is a neurosurgeon in Clinton, MD, and is affiliated with multiple hospitals including University of Maryland Medical Center. He has been in practice more than 20 years.",
+			"full_name": "James D. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 5,
+			"affiliated_hospital": "University of Maryland Medical Center",
+			"photo": null,
+			"location": {
+				"city": "Clinton",
+				"distance": null,
+				"state": "MD",
+				"zip_code": "20735",
+				"street_address": "10401 Hospital Dr"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Neurosurgery"
+				}
+			},
+			"specialty": "Neurosurgery",
+			"subspecialties": [
+				"General Neurosurgery"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-456515",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1235169236,
+			"phone": "(804) 359-4093",
+			"blurb": "Dr. James Abbott is a family medicine doctor in Richmond, VA, and has been in practice more than 20 years.",
+			"full_name": "James E. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Richmond",
+				"distance": null,
+				"state": "VA",
+				"zip_code": "23220",
+				"street_address": "1101 Hampton St"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Family Medicine"
+				}
+			},
+			"specialty": "Family Medicine",
+			"subspecialties": [
+				"General Family Medicine"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-427694",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1518490283,
+			"phone": null,
+			"blurb": "Dr. James Abbott is a dermatologist in Philadelphia, PA.",
+			"full_name": "James J. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Philadelphia",
+				"distance": null,
+				"state": "PA",
+				"zip_code": "19019",
+				"street_address": "Drexel Coll of Med/Hahnemann Sch of Med"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Dermatology"
+				}
+			},
+			"specialty": "Dermatology",
+			"subspecialties": [
+				"General Dermatology"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-1040922",
+			"years_of_experience": null,
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1699776880,
+			"phone": "(202) 404-5512",
+			"blurb": "Dr. James Abbott is a family medicine doctor in Bolling Afb, DC, and has been in practice between 10–20 years.",
+			"full_name": "James R. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/hrhyxpdmwwqyzpverbiq.jpg",
+			"location": {
+				"city": "Bolling Afb",
+				"distance": null,
+				"state": "DC",
+				"zip_code": "20332",
+				"street_address": "238 Brookley Ave"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Family Medicine"
+				}
+			},
+			"specialty": "Family Medicine",
+			"subspecialties": [
+				"General Family Medicine"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-1232175",
+			"years_of_experience": [
+				11,
+				20
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1518065846,
+			"phone": "(281) 332-3503",
+			"blurb": "Dr. James Abbott is a pediatrician in Webster, TX, and is affiliated with multiple hospitals including Texas Children's Hospital. He has been in practice more than 20 years.",
+			"full_name": "James R. Abbott",
+			"first_name": "James",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 2,
+			"affiliated_hospital": "Texas Children's Hospital",
+			"photo": "https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/islya31tzkcpgygl8xi2.jpg",
+			"location": {
+				"city": "Webster",
+				"distance": null,
+				"state": "TX",
+				"zip_code": "77598",
+				"street_address": "16 Professional Park"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Pediatrics"
+				}
+			},
+			"specialty": "Pediatrics",
+			"subspecialties": [
+				"General Pediatrics"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/james-abbott-545338",
+			"years_of_experience": [
+				21,
+				-1
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1578958716,
+			"phone": "(617) 638-5500",
+			"blurb": "Dr. Jamie Abbott is a dermatologist in Boston, MA, and has been in practice between 3–5 years.",
+			"full_name": "Jamie Abbott (Langenhan)",
+			"first_name": "Jamie",
+			"last_name": "Abbott",
+			"maiden_name": "Langenhan",
+			"gender": "F",
+			"hospitals": 0,
+			"affiliated_hospital": null,
+			"photo": null,
+			"location": {
+				"city": "Boston",
+				"distance": null,
+				"state": "MA",
+				"zip_code": "02118",
+				"street_address": "609 Albany St"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Dermatology"
+				}
+			},
+			"specialty": "Dermatology",
+			"subspecialties": [
+				"General Dermatology"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/jamie-abbott-1898967",
+			"years_of_experience": [
+				3,
+				5
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		},
+		{
+			"doctor_type": "doctor",
+			"source": "doximity",
+			"patient_experience": null,
+			"appointment_booking": false,
+			"npi": 1073598512,
+			"phone": "(515) 270-1260",
+			"blurb": "Dr. Jared Abbott is a dermatologist in Des Moines, IA, and is affiliated with multiple hospitals including UnityPoint Health-Iowa Lutheran Hospital. He has been in practice between 10–20 years.",
+			"full_name": "Jared J. Abbott",
+			"first_name": "Jared",
+			"last_name": "Abbott",
+			"maiden_name": null,
+			"gender": "M",
+			"hospitals": 3,
+			"affiliated_hospital": "UnityPoint Health-Iowa Lutheran Hospital",
+			"photo": null,
+			"location": {
+				"city": "Des Moines",
+				"distance": null,
+				"state": "IA",
+				"zip_code": "50309",
+				"street_address": "1212 Pleasant St"
+			},
+			"partner_overrides": {
+				"doximity": {
+					"specialty": "Dermatology"
+				}
+			},
+			"specialty": "Dermatology",
+			"subspecialties": [
+				"General Dermatology",
+				"Dermatopathology"
+			],
+			"title": "MD",
+			"title_list": [
+				"MD"
+			],
+			"url": "/doctors/jared-abbott-226861",
+			"years_of_experience": [
+				11,
+				20
+			],
+			"sponsored": false,
+			"languages": [],
+			"name_prefix": "Dr. "
+		}
+	]
+}
